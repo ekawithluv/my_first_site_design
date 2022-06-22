@@ -79,6 +79,7 @@ body {
   width: 270px;
   height: 70px;
   margin-left: 585px;
+  margin-bottom: 73px;
   border: none;
   font-style: italic;
   font-weight: 900;
@@ -89,8 +90,4 @@ body {
   letter-spacing: 0.4em;
 
   color: #ffffff;
-}
-
-.footer {
-  padding-bottom: 143px;
 }
